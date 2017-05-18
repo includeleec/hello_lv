@@ -38,8 +38,8 @@
     <body>
         <div class="container">
             <div class="content">
-                <div class="title">Laravel 5</div>
-                <div class="title">Hello Laravel -- by Lee.c</div>
+                <div class="title">老婆老婆520</div>
+                <div class="title">老婆老婆我爱你就像爱榴莲！ -- by Lee.c</div>
             </div>
         </div>
     </body>
